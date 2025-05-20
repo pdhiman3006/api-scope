@@ -51,6 +51,11 @@
     "description":"Retrieve the customer profile"
   },
   {
+    "key":"read:mobile-pin",
+    "name":"Execute mobile-pin call",
+    "description":"Retrieve the mobile pin data"
+  },
+  {
     "key":"read:messages",
     "name":"Execute messages call",
     "description":"Retrieve the messages"
